@@ -2,7 +2,9 @@
 Community Bridge Tests need some work maybe some help if interested was bored 
 
 # What It Does
-This script is for community_bridge resource in FiveM. link :https://github.com/The-Order-Of-The-Sacred-Framework/community_bridge
+This script is for community_bridge resource in FiveM. 
+link :https://github.com/The-Order-Of-The-Sacred-Framework/community_bridge
+discord: https://discord.gg/9mGMBY5REv
 It checks whether the various functions and modules provided by the community_bridge are implemented and working correctly.
 
 # like:
